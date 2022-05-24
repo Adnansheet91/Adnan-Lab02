@@ -1,16 +1,24 @@
-# Adnan-Lab02
+# Adnan-Lab02   
 **Name:** Adnan Sheet
 
 **URL:**` https://adnan-lab02.herokuapp.com/`
 
 **Name of the Endpoint:**
-### Addition 
+
+**Addition** 
+
 `https://adnan-lab02.herokuapp.com/calc?operation=add&numberone=1&numbertwo=2`
-### Substraction
+
+**Substraction**
+
 `https://adnan-lab02.herokuapp.com/calc?operation=sub&numberone=1&numbertwo=2`
-### Division
+ 
+ **Division**
+
 `https://adnan-lab02.herokuapp.com/calc?operation=div&numberone=1&numbertwo=2`
-### Multiplication
+
+**Multiplication**
+
 `https://adnan-lab02.herokuapp.com/calc?operation=mul&numberone=1&numbertwo=2`
 
 
